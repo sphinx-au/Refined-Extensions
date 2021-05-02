@@ -1,9 +1,10 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0",
+	"Version": 3,
+	"VersionName": "0.1.0",
+	"SemVersion": "3.0.0
 	"FriendlyName": "ExtendedRecipes",
-	"Description": "Tweaks existing production chains.",
+	"Description": "Adds additional recipes for Refined Power",
 	"Category": "Modding",
 	"CreatedBy": "SphinX",
 	"CreatedByURL": "",
